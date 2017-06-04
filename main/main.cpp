@@ -1,8 +1,6 @@
 /*
  * app_main.c
  *
- *  Created on: 30.03.2017
- *      Author: michaelboeckling
  */
 
 #include <stdlib.h>
